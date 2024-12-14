@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=vimu678&label=Profile%20views&color=0e75b6&style=flat](https://github.com/user-attachments/assets/87faeac1-ec52-4efb-8713-8cdb90380f9e" >
+
 <h1 align="center">Hi 👋, I'm Theekshana!</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
